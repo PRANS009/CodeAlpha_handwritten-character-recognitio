@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+data/
+model/*.pth
+model/label_mapping.json
+plots/training_history.png
